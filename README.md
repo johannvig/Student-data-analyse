@@ -21,3 +21,5 @@ Seaborn : C'est une bibliothèque de visualisation de données en Python basée 
 ![image](https://github.com/johannvig/Student-data-analyse/assets/102874093/637d78fd-cb5d-4841-a864-db0de2e6e019)
 
 ![image](https://github.com/johannvig/Student-data-analyse/assets/102874093/58cf32aa-f578-4162-a218-0d4748e93772)
+
+![image](https://github.com/johannvig/Student-data-analyse/assets/102874093/eb202dd7-d7a0-4398-a288-1e0486760563)
