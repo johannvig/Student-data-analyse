@@ -17,9 +17,13 @@ Pandas : C'est une bibliothèque de manipulation et d'analyse de données. Elle 
 
 Seaborn : C'est une bibliothèque de visualisation de données en Python basée sur matplotlib. Elle fournit une interface de haut niveau pour dessiner des graphiques statistiques attrayants et informatifs. Nous l'utilisons pour créer toutes les visualisations de nos données.
 
+<img align="center" src="https://github.com/johannvig/Student-data-analyse/assets/102874093/637d78fd-cb5d-4841-a864-db0de2e6e019" width="700" alt="image">
+<br>
+<br>
+<img align="center" src="https://github.com/johannvig/Student-data-analyse/assets/102874093/58cf32aa-f578-4162-a218-0d4748e93772" width="700" alt="image">
+<br>
+<br>
+<img align="center" src="https://github.com/johannvig/Student-data-analyse/assets/102874093/eb202dd7-d7a0-4398-a288-1e0486760563" width="700" alt="image">
+<br>
+<br>
 
-![image](https://github.com/johannvig/Student-data-analyse/assets/102874093/637d78fd-cb5d-4841-a864-db0de2e6e019)
-
-![image](https://github.com/johannvig/Student-data-analyse/assets/102874093/58cf32aa-f578-4162-a218-0d4748e93772)
-
-![image](https://github.com/johannvig/Student-data-analyse/assets/102874093/eb202dd7-d7a0-4398-a288-1e0486760563)
